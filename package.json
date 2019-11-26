@@ -1,0 +1,19 @@
+{
+  "name": "toyproblemsint",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MatthewYee92/toyproblemsInt.git"
+  },
+  "author": "Matthew Yee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MatthewYee92/toyproblemsInt/issues"
+  },
+  "homepage": "https://github.com/MatthewYee92/toyproblemsInt#readme"
+}
